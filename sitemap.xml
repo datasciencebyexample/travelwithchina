@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.travelwithchina.com/Culture/Chinese-New-Year/chinese-new-year-origin-and-traditions/</loc>
+    
+    <lastmod>2022-11-24</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.travelwithchina.com/about/index.html</loc>
     
     <lastmod>2022-11-06</lastmod>
@@ -31,7 +40,7 @@
 
   <url>
     <loc>https://www.travelwithchina.com/</loc>
-    <lastmod>2022-11-07</lastmod>
+    <lastmod>2022-11-24</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -41,21 +50,28 @@
   
   <url>
     <loc>https://www.travelwithchina.com/categories/Culture/</loc>
-    <lastmod>2022-11-07</lastmod>
+    <lastmod>2022-11-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.travelwithchina.com/categories/Culture/Chinese-Zodiac/</loc>
-    <lastmod>2022-11-07</lastmod>
+    <loc>https://www.travelwithchina.com/categories/Culture/Chinese-New-Year/</loc>
+    <lastmod>2022-11-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.travelwithchina.com/categories/Culture/Chinese-Kung-Fu/</loc>
-    <lastmod>2022-11-07</lastmod>
+    <lastmod>2022-11-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.travelwithchina.com/categories/Culture/Chinese-Zodiac/</loc>
+    <lastmod>2022-11-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
