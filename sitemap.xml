@@ -1,79 +1,219 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
-  <url>
-    <loc>https://www.discoverchinatoday.com/Culture/Chinese-New-Year/chinese-new-year-origin-and-traditions/</loc>
-    
-    <lastmod>2022-11-24</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.discoverchinatoday.com/about/index.html</loc>
-    
-    <lastmod>2022-11-06</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.discoverchinatoday.com/Culture/Chinese-Kung-Fu/top3-kung-fu-styles/</loc>
-    
-    <lastmod>2022-10-27</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.discoverchinatoday.com/Culture/Chinese-Zodiac/find-my-chinese-zodiac-sign/</loc>
-    
-    <lastmod>2022-10-23</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-
   <url>
     <loc>https://www.discoverchinatoday.com/</loc>
-    <lastmod>2023-12-03</lastmod>
+    <lastmod>2025-11-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
-
-  
-
-  
+  <url>
+    <loc>https://www.discoverchinatoday.com/explore</loc>
+    <lastmod>2025-11-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.discoverchinatoday.com/culture</loc>
+    <lastmod>2025-11-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.discoverchinatoday.com/stories</loc>
+    <lastmod>2025-11-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.discoverchinatoday.com/search</loc>
+    <lastmod>2025-11-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.4</priority>
+  </url>
+  <url>
+    <loc>https://www.discoverchinatoday.com/culture/chinese-new-year-traditions/</loc>
+    <lastmod>2025-01-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.discoverchinatoday.com/culture/chinese-tea-culture/</loc>
+    <lastmod>2025-01-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.discoverchinatoday.com/culture/dragon-dance-traditions/</loc>
+    <lastmod>2025-01-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.discoverchinatoday.com/culture/lantern-festival-2025/</loc>
+    <lastmod>2025-02-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.discoverchinatoday.com/culture/mid-autumn-festival-2025/</loc>
+    <lastmod>2025-08-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.discoverchinatoday.com/culture/year-of-snake-2025/</loc>
+    <lastmod>2025-08-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.discoverchinatoday.com/explore/daocheng-yading/</loc>
+    <lastmod>2025-01-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.discoverchinatoday.com/explore/jiuzhaigou-valley/</loc>
+    <lastmod>2023-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.discoverchinatoday.com/explore/kanas-lake-xinjiang/</loc>
+    <lastmod>2025-08-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.discoverchinatoday.com/explore/pingtan-island/</loc>
+    <lastmod>2025-02-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.discoverchinatoday.com/explore/shangli-ancient-town/</loc>
+    <lastmod>2025-01-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.discoverchinatoday.com/explore/wuyuan-countryside/</loc>
+    <lastmod>2025-08-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.discoverchinatoday.com/explore/yangshuo-li-river/</loc>
+    <lastmod>2025-01-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.discoverchinatoday.com/stories/great-wall-family-history/</loc>
+    <lastmod>2025-08-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.discoverchinatoday.com/stories/life-changing-china-experience/</loc>
+    <lastmod>2025-02-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.discoverchinatoday.com/stories/modern-china-traditional-culture/</loc>
+    <lastmod>2025-01-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.discoverchinatoday.com/stories/tea-culture-bridge/</loc>
+    <lastmod>2025-02-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.discoverchinatoday.com/stories/teaching-english-rural-china/</loc>
+    <lastmod>2025-01-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.discoverchinatoday.com/stories/vr-poetry-experience/</loc>
+    <lastmod>2025-08-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.discoverchinatoday.com/about/index.html</loc>
+    <lastmod>2022-11-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.discoverchinatoday.com/archives/</loc>
+    <lastmod>2022-11-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
+  </url>
+  <url>
+    <loc>https://www.discoverchinatoday.com/archives/2022/</loc>
+    <lastmod>2022-11-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
+  </url>
+  <url>
+    <loc>https://www.discoverchinatoday.com/archives/2022/10/</loc>
+    <lastmod>2022-10-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://www.discoverchinatoday.com/archives/2022/11/</loc>
+    <lastmod>2022-11-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.3</priority>
+  </url>
   <url>
     <loc>https://www.discoverchinatoday.com/categories/Culture/</loc>
     <lastmod>2023-12-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
-  
   <url>
     <loc>https://www.discoverchinatoday.com/categories/Culture/Chinese-New-Year/</loc>
     <lastmod>2023-12-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
-  
   <url>
     <loc>https://www.discoverchinatoday.com/categories/Culture/Chinese-Kung-Fu/</loc>
     <lastmod>2023-12-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
-  
   <url>
     <loc>https://www.discoverchinatoday.com/categories/Culture/Chinese-Zodiac/</loc>
     <lastmod>2023-12-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
-  
+  <url>
+    <loc>https://www.discoverchinatoday.com/Culture/Chinese-New-Year/chinese-new-year-origin-and-traditions/</loc>
+    <lastmod>2022-11-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.discoverchinatoday.com/Culture/Chinese-Kung-Fu/top3-kung-fu-styles/</loc>
+    <lastmod>2022-10-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.discoverchinatoday.com/Culture/Chinese-Zodiac/find-my-chinese-zodiac-sign/</loc>
+    <lastmod>2022-10-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
 </urlset>
